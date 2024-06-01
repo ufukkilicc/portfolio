@@ -46,7 +46,7 @@ export default function ProjectDetail() {
         </div>
       </div>
       {language === "tr" ? (
-        <div className="flex flex-col justify-start items-start py-40 gap-10 text-xl leading-relaxed font-light text-gray-300 px-40">
+        <div className="flex flex-col justify-start items-start py-40 gap-10 text-xl leading-relaxed font-light text-gray-300 px-10 lg:px-40">
           <div className="flex flex-col justify-start items-start gap-2">
             <h1 className="font-bold text-2xl">API Tasarımı ve Geliştirme</h1>
             <p>
